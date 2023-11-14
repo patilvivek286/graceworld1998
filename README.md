@@ -1,4 +1,4 @@
 # graceworld1998
-this is my first git repo.
+This is my first git Reppsitory.
 <br>
-author - vivek patil
+Author - Vivek Patil
